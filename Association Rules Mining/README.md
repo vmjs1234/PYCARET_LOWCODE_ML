@@ -20,11 +20,11 @@ The notebook in this directory covers:
 
 ## Dataset
 
-The dataset used in this notebook is [[groceries dataset](https://kaggle.com/datasets/heeraldedhia/groceries-dataset)] from [Kaggle]. It was chosen to demonstrate association rules mining on [BRIEF DESCRIPTION OF DATA].
+The dataset used in this notebook is [[groceries dataset](https://kaggle.com/datasets/heeraldedhia/groceries-dataset)] from [Kaggle]
 
 ## Video Tutorial
 
-A comprehensive video tutorial explaining this notebook and its outputs is available at [LINK_TO_VIDEO].
+A comprehensive video tutorial explaining this notebook and its outputs is available at [[VIDEO](https://drive.google.com/file/d/1PlDkdJvOjATTUBNqQmUaHSlHKf3WR784/view?usp=sharing)].
 
 ## Additional Notes
 
