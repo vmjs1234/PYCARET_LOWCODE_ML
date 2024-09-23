@@ -52,6 +52,4 @@ pip install pycaret
 
 This is an academic project and is not open for contributions. However, feedback and suggestions are welcome.
 
-## License
 
-[Specify the license under which this project is released]
