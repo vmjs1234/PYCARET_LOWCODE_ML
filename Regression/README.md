@@ -26,7 +26,7 @@ The dataset used in this notebook is [[Real estate house price regression](https
 
 ## Video Tutorial
 
-A comprehensive video tutorial explaining this notebook and its outputs is available at [LINK_TO_VIDEO].
+A comprehensive video tutorial explaining this notebook and its outputs is available at [[VIDEO](https://drive.google.com/file/d/101XDd-nfYLidv50O6VlznBuAsBXiDnwC/view?usp=sharing)].
 
 ## Additional Notes
 
