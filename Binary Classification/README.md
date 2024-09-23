@@ -26,7 +26,7 @@ The dataset used in this notebook is [[breast cancer](https://www.kaggle.com/dat
 
 ## Video Tutorial
 
-A comprehensive video tutorial explaining this notebook and its outputs is available at [LINK_TO_VIDEO].
+A comprehensive video tutorial explaining this notebook and its outputs is available at [[VIDEO](https://drive.google.com/file/d/1CTzFU_OBvbIXXhR3H2YcmFtuthJHBwhv/view?usp=sharing)].
 
 ## Additional Notes
 
