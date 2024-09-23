@@ -26,7 +26,7 @@ The dataset used in this notebook is [[Cirrhosis multi class classification stag
 
 ## Video Tutorial
 
-A comprehensive video tutorial explaining this notebook and its outputs is available at [LINK_TO_VIDEO].
+A comprehensive video tutorial explaining this notebook and its outputs is available at [[VIDEO](https://drive.google.com/file/d/1CKSQD7FlhE2YMu4e2UmweuSQTvw-PNwp/view?usp=sharing)].
 
 ## Additional Notes
 
