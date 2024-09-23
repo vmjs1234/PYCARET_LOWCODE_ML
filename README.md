@@ -28,7 +28,7 @@ Each subdirectory contains:
 
 ## Video Tutorials
 
-Comprehensive video tutorials explaining each notebook and its outputs are available at [LINK_TO_VIDEO_PLAYLIST].
+Comprehensive video tutorials explaining each notebook and its outputs are available at [[VIDEO_LIST](https://drive.google.com/drive/folders/1I4UoulykIRSsZKDHT7kpR4CeIKg0TaEk?usp=drive_link)].
 
 ## Additional Notes
 
