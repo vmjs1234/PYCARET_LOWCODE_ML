@@ -22,11 +22,11 @@ Note: The notebook is set up to use GPU if available (`use_gpu=True` in the setu
 
 ## Dataset
 
-The dataset used in this notebook is [[Bike sharing demand](https://www.kaggle.com/competitions/bike-sharing-demand/data)] from [Kaggle]. It was chosen to demonstrate time series forecasting with exogenous variables on [BRIEF DESCRIPTION OF DATA].
+The dataset used in this notebook is [[Bike sharing demand](https://www.kaggle.com/competitions/bike-sharing-demand/data)] from [Kaggle]. 
 
 ## Video Tutorial
 
-A comprehensive video tutorial explaining this notebook and its outputs is available at [LINK_TO_VIDEO].
+A comprehensive video tutorial explaining this notebook and its outputs is available at [[VIDEO](https://drive.google.com/file/d/162hs26lYSjVYp5lnmUWcK9oW3k2pPjGl/view?usp=drive_link)].
 
 ## Additional Notes
 
