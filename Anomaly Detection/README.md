@@ -26,7 +26,7 @@ The dataset used in this notebook is [[Intrusion detection dataset](https://www.
 
 ## Video Tutorial
 
-A comprehensive video tutorial explaining this notebook and its outputs is available at [LINK_TO_VIDEO].
+A comprehensive video tutorial explaining this notebook and its outputs is available at [[VIDEO](https://drive.google.com/file/d/1ZXhmPjQjTwVhgUbEY1G7I-DcA6drzaNn/view?usp=sharing)].
 
 ## Additional Notes
 
