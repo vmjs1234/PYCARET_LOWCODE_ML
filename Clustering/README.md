@@ -26,7 +26,7 @@ The dataset used in this notebook is [[UN Country index dataset](https://www.kag
 
 ## Video Tutorial
 
-A comprehensive video tutorial explaining this notebook and its outputs is available at [LINK_TO_VIDEO].
+A comprehensive video tutorial explaining this notebook and its outputs is available at [[VIDEO](https://drive.google.com/file/d/1xeTOVeq-2-PR8EnQmXGshFYS58pXn01n/view?usp=sharing)].
 
 ## Additional Notes
 
