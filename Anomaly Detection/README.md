@@ -1,3 +1,5 @@
+COLAB LINK UPDATED https://colab.research.google.com/drive/1WeaGSZJnZQXwa9EXzVt4l5w88XDnKB0h?usp=sharing
+
 # Anomaly Detection with PyCaret
 
 This directory contains a Jupyter notebook demonstrating anomaly detection using PyCaret, a low-code machine learning library in Python.
