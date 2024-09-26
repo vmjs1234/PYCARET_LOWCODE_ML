@@ -1,3 +1,5 @@
+COLAB UPDATED LINK  https://colab.research.google.com/drive/1pHJ3R6g7WBlY8aEn3QPTA7frhcKLOZb_?usp=sharing
+
 # Binary Classification with PyCaret
 
 This directory contains a Jupyter notebook demonstrating binary classification using PyCaret, a low-code machine learning library in Python.
