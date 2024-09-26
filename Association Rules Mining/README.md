@@ -1,3 +1,5 @@
+COLAB LINK UPDATED   https://colab.research.google.com/drive/1HN5j-Rp3h3Wybi_xKaL1eVynpRcNIBoU?usp=sharing
+
 # Association Rules Mining with PyCaret
 
 This directory contains a Jupyter notebook demonstrating association rules mining using PyCaret, a low-code machine learning library in Python.
