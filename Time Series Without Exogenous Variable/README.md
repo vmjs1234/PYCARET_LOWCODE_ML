@@ -1,3 +1,5 @@
+COLAB LINK UPDATED https://colab.research.google.com/drive/1OV2WWVQZH8RWk1r6n1BUPUtcU7K_wVuA?usp=sharing
+
 # Time Series Forecasting without Exogenous Variables using PyCaret
 
 This directory contains a Jupyter notebook demonstrating time series forecasting without exogenous variables using PyCaret, a low-code machine learning library in Python.
