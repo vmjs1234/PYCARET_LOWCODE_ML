@@ -1,3 +1,5 @@
+COLAB UPDATED LINK https://colab.research.google.com/drive/1b39ufaPxHUVE9epIpGL47hw3YbKRlDEw?usp=sharing
+
 # Regression with PyCaret
 
 This directory contains a Jupyter notebook demonstrating regression using PyCaret, a low-code machine learning library in Python.
